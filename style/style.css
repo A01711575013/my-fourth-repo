@@ -1,6 +1,7 @@
 div {
     display: flex;
     color: blue;
+    margin: 22px;
 }
 .ketty {
     width: 450px;
